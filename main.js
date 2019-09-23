@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
 $(document).ready( function() {
     setTimeout(function(){
         $("#svg").css("display", "block");
-    },10500);
+    },10900);
 });
 
 
